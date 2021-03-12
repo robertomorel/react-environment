@@ -1,0 +1,16 @@
+/* Put your global CSS here */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font: Arial, Helvetice, sans-serif;
+  background: #333;
+  color: #fff;
+
+  h1 {
+    font-size: 80px;
+  }
+}
